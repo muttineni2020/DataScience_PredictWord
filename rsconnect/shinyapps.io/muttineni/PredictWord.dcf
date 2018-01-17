@@ -1,0 +1,13 @@
+name: PredictWord
+title: PredictWord
+username:
+account: muttineni
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 257388
+bundleId: 1178808
+url: https://muttineni.shinyapps.io/PredictWord/
+when: 1516133386.25432
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Data_Science_Capstone_Milestone_Project.html

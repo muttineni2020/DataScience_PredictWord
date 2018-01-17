@@ -1,0 +1,13 @@
+name: PWord
+title: PWord
+username:
+account: muttineni
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 257639
+bundleId: 1180254
+url: https://muttineni.shinyapps.io/PWord/
+when: 1516215311.98893
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData

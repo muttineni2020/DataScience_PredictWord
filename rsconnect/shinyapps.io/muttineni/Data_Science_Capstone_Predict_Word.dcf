@@ -1,0 +1,13 @@
+name: Data_Science_Capstone_Predict_Word
+title: Data_Science_Capstone_Predict_Word
+username:
+account: muttineni
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 257347
+bundleId: 1178897
+url: https://muttineni.shinyapps.io/Data_Science_Capstone_Predict_Word/
+when: 1516137008.5265
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData

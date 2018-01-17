@@ -1,0 +1,13 @@
+name: Predict_Word
+title: Predict_Word
+username:
+account: muttineni
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 257432
+bundleId: 1179264
+url: https://muttineni.shinyapps.io/Predict_Word/
+when: 1516159420.26306
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData

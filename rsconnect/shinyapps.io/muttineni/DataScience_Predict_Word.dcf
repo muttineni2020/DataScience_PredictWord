@@ -1,0 +1,13 @@
+name: DataScience_Predict_Word
+title: DataScience_Predict_Word
+username:
+account: muttineni
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 257611
+bundleId: 1180066
+url: https://muttineni.shinyapps.io/DataScience_Predict_Word/
+when: 1516206235.55589
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
